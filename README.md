@@ -11,7 +11,7 @@ Aplicación web para la gestión y pago de préstamos con simuladores, cuotas en
 - Autenticación y roles de usuario.
 
 **Tecnologías:**
-> Angular | Bootstrap | Java | Spring Boot | MySQL  
+> Angular 16| Bootstrap | Java | Spring Boot | MySQL  
 
 Este repositorio incluye los enlaces al frontend y backend del proyecto.
 
