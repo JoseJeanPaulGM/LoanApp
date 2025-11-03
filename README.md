@@ -1,4 +1,4 @@
-# LoanApp
+# LoanApp Proyecto Freenlace colaborativo
 ## 🏦 App Préstamos
 **Descripción:**  
 Aplicación web para la gestión y pago de préstamos con simuladores, cuotas en tiempo real y análisis de capacidad de pago.
