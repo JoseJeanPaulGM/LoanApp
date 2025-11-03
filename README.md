@@ -2,8 +2,6 @@
 ## 🏦 App Préstamos
 **Descripción:**  
 Aplicación web para la gestión y pago de préstamos con simuladores, cuotas en tiempo real y análisis de capacidad de pago.Colaborador en el app de gestión de prestamos:
-- Implementé mejoras en la lógica de filtrado.
-- Participé en la revisión de código y documentación técnica.
 
 **Características:**
 - Gestión de préstamos.
